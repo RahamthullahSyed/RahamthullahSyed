@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rahamthullah Syed
+- 👀 I’m interested in ... Tech
+- 🌱 I’m currently learning ... Cloud and DevOps
+- 💞️ I’m looking to collaborate on ... Cloud and DevOps

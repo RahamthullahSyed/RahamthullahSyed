@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Rahamthullah Syed
+- 👀 Currently working as ... Assistant Executive Engineer in Andhra Pradesh Water Resources Department
 - 👀 I’m interested in ... Tech
 - 🌱 I’m currently learning ... Cloud and DevOps
 - 💞️ I’m looking to collaborate on ... Cloud and DevOps
